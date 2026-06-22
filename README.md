@@ -20,15 +20,15 @@
 
 * **Đoạn mã nguồn viết mã kịch bản Selenium trong IDLE Python:**
     *Mô tả: Hình ảnh cấu trúc code thiết lập WebDriver, xử lý kiểm tra các phần tử Element bằng ID/Class Name.*
-    ![Mã nguồn Selenium](images/04_selenium_code.png)
+    ![Mã nguồn Selenium](7a3ef450-502a-44f4-87f5-977d32ab6107.jpg)
 
 * **Quá trình trình duyệt tự động thực hiện thao tác:**
     *Mô tả: Trình duyệt Google Chrome được điều khiển tự động bởi Selenium thực hiện các hành động trên trang giao diện web.*
-    ![Trình duyệt chạy tự động](images/05_selenium_browser.png)
+    ![Trình duyệt chạy tự động](9627ce11-d4d4-48c9-b3cd-c196033d08fd.jpg)
 
 * **Log kết quả chạy thành công hiển thị trên IDLE Shell:**
     *Mô tả: Cửa sổ thông báo đầu ra xác nhận toàn bộ 3 Test Cases đều vượt qua bài kiểm tra (Assertion passed) không lỗi.*
-    ![Kết quả Console](images/06_selenium_console.png)
+    ![Kết quả Console](3bec2f23-1a63-4875-87e5-92c73c02e103.jpg)
 
 ---
 
